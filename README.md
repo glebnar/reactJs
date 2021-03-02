@@ -1,2 +1,2 @@
 # reactJs
-Repo usde to learn ReactJS
+Repo used to learn ReactJS
